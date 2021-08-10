@@ -20,4 +20,4 @@ microservice:
   product-service:
     endpoints:
       endpoint:
-        uri: http://PRODUCT-SERVICE/order/bookOrder
+        uri: http://PRODUCT-SERVICE/products
